@@ -1,9 +1,8 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
-import Triangle from './address-b-test.js';
+import Contact from './address-b-test.js';
 
-// User Interface Logic ---------
 let addressBook = new AddressBook();
 
 function listContacts(addressBookToDisplay) {
